@@ -1,7 +1,17 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Direccion IP
 
 192.168.100.48
 =======
 Dirección IP pública: 10.0.2.15 
 >>>>>>> 990916c48092fb29565fe86bace7ae27773ef31a
+=======
+
+
+ip privada VM german
+192.168.1.12
+=======
+Dirección IP pública: 10.0.2.15 
+
+>>>>>>> 3458656bc22261f538553e3aa478c4b890c75fca
