@@ -1,0 +1,1 @@
+172.16.0.172/24 brd 172.16.0.255 scope global dynamic enp0s3
